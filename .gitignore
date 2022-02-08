@@ -1,0 +1,7 @@
+env/
+imagenes/
+*.log
+*.csv
+*.xlsx
+test.py
+scraper_a.py
